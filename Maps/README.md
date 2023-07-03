@@ -2,6 +2,8 @@
  <h1>Maps in Golang</h1>
 </span>
 
+Author : Sagar Singh <a href="https://github.com/SagarSingh2003"><img src="https://github.com/SagarSingh2003/Golang-tutorial/assets/129133613/efe31faf-cb16-40b1-8570-dde5a7b5c357"></img></a>
+
 ## What are Maps?
 Map is a very important data structure in Golang used to store ,add and delete data in your program. Go provides a built-in type map that implements a hash table. 
 ### Uses :
